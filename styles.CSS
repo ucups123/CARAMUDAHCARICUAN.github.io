@@ -1,0 +1,141 @@
+header {
+  margin: 0;
+  padding: 0;
+  
+}
+header img{
+ width: 1300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+  scroll-behavior: smooth;
+  background-color: white;
+  scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.caricuan2 {
+    margin-bottom: 40px; /* spasi ke bawah caricuan2 */
+}
+.caricuan2 img {
+    width: 1200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mitra {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 30px; /* spasi jarak logo  */
+    flex-wrap: nowrap;
+}
+
+.mitra img {
+    max-height: 190px; 
+    height: auto;
+    width: auto;
+     scroll-behavior: smooth;
+     margin-bottom: 150px;
+      width: 250px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.klikaja {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 30px;
+  background-image: url(klikaja.png);
+  background-size: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  scroll-behavior: smooth;
+  margin-bottom: 30px;
+}
+
+div.klikaja img {
+  display: block;
+  margin: 0;
+  width: 450px;
+  height: auto;
+  scroll-behavior: smooth;
+  
+}
+.tujuan1{
+  margin-top: 100px;
+  margin-bottom: 50px;
+   margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+}
+.tujuan2 {
+  margin-bottom: 50px;
+   margin-left: auto;
+    margin-right: auto;
+        width: 1300px;
+
+}
+.tujuan3 {
+  margin-bottom: 50px;
+   margin-left: auto;
+    margin-right: auto;
+        width: 1300px;
+
+}
+.tujuan4 {
+      width: 1300px;
+  margin-bottom: 50px;
+   margin-left: auto;
+    margin-right: auto;
+}
+.tujuan5 {
+      width: 1300px;
+  margin-bottom: 50px;
+   margin-left: auto;
+    margin-right: auto;
+}
+.tujuan6 {
+  margin-bottom: 50px;
+   margin-left: auto;
+    margin-right: auto;
+        width: 1300px;
+
+}
+.tujuan7 {
+  margin-bottom: 50px;
+   margin-left: auto;
+    margin-right: auto;
+        width: 1300px;
+
+}
+.tujuan1 img,
+.tujuan2 img,
+.tujuan3 img,
+.tujuan4 img,
+.tujuan5 img,
+.tujuan6 img,
+.tujuan7 img {
+    width: 1300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.klikajafooter img{
+      width: 1350px;
+      margin-bottom: 250px;
+       margin-left: auto;
+    margin-right: auto;
+}
+section {
+    border: 20px solid rgb(255, 255, 255);
+}
